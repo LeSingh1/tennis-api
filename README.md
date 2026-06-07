@@ -1,11 +1,12 @@
 # tennis-api
 
-Small, unofficial Node client for ESPN's tennis (ATP) data. ESPN serves tennis (ATP)
-under `tennis/atp`, and this wraps those endpoints.
+Unofficial Node client for ESPN's tennis (ATP) data. ESPN serves tennis (ATP) under
+`tennis/atp`, and this wraps those endpoints with retry/timeout
+transport and parsers that return clean data.
 
 Part of the [espn-api](https://github.com/LeSingh1/espn-api) family. The parent
-repo is one client for every sport. This one is just tennis (ATP), in the style of
-swar/nba_api, for people who only want this league.
+is one client for every sport. This one is just tennis (ATP), in the style of
+swar/nba_api.
 
 ## Run it
 
@@ -14,20 +15,25 @@ No dependencies. Node 18+ (built-in fetch).
 ```
 git clone https://github.com/LeSingh1/tennis-api
 cd tennis-api
-node examples/scoreboard.js   # tennis (ATP) events on the board
-node tests/sports.test.js
+node examples/scoreboard.js   # tennis (ATP) events
+npm test
 ```
 
 ## Use it
 
 ```js
-import { scoreboard, gamelog } from "./src/api.js";
+import { scoreboardClean, gamelogClean } from "./src/api.js";
 
-await scoreboard({ dates: "20260906" });
-await gamelog("ATHLETE_ID");   // per-game log
+await scoreboardClean({ dates: "20260906" });   // tidy array of games
+await gamelogClean("ATHLETE_ID");               // [{ date, opponent, atVs, stats }]
 ```
 
-tennis (ATP) is an individual sport, so `teams`, `roster` and `standings` mostly do not apply. Use `scoreboard`, `athlete`, `gamelog`, `splits`, `news`, and `summary`.
+tennis (ATP) is an individual sport, so `teams`, `roster` and `standings` mostly do not apply. Use `scoreboard`, `athlete`, `gamelog`, `splits`, `news`, `summary`, `odds`, and the parsed `scoreboardClean` / `gamelogClean`.
+
+## Transport
+
+12 second timeout, up to 3 retries on 429 and 5xx with backoff and Retry-After.
+Real failures throw with the status and url.
 
 ## Honest notes
 
