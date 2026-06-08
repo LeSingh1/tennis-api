@@ -1,18 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260607",
-  "count": 3,
+  "date": "20260608",
+  "count": 2,
   "games": [
-    {
-      "id": "172-2026",
-      "name": "Roland Garros",
-      "shortName": "Roland Garros",
-      "date": "2026-05-18T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "49-2026",
       "name": "Boss Open",
