@@ -1,27 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260614",
-  "count": 4,
+  "date": "20260615",
+  "count": 2,
   "games": [
-    {
-      "id": "49-2026",
-      "name": "Boss Open",
-      "shortName": "Boss Open",
-      "date": "2026-06-06T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "415-2026",
-      "name": "Libéma Open",
-      "shortName": "Libéma Open",
-      "date": "2026-06-06T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "27-2026",
       "name": "Terra Wortmann Open",
