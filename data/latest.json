@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260619",
-  "count": 2,
+  "date": "20260620",
+  "count": 4,
   "games": [
     {
       "id": "27-2026",
@@ -18,6 +18,24 @@
       "name": "HSBC Championships",
       "shortName": "HSBC Championships",
       "date": "2026-06-13T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "444-2026",
+      "name": "Lexus Eastbourne Open",
+      "shortName": "Lexus Eastbourne Open",
+      "date": "2026-06-20T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "637-2026",
+      "name": "Vanda Pharmaceuticals Mallorca Championships",
+      "shortName": "Vanda Pharmaceuticals Mallorca Championships",
+      "date": "2026-06-20T04:00Z",
       "completed": false,
       "home": null,
       "away": null
