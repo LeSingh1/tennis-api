@@ -1,27 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260621",
-  "count": 4,
+  "date": "20260622",
+  "count": 3,
   "games": [
-    {
-      "id": "27-2026",
-      "name": "Terra Wortmann Open",
-      "shortName": "Terra Wortmann Open",
-      "date": "2026-06-13T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "129-2026",
-      "name": "HSBC Championships",
-      "shortName": "HSBC Championships",
-      "date": "2026-06-13T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "444-2026",
       "name": "Lexus Eastbourne Open",
@@ -36,6 +18,15 @@
       "name": "Vanda Pharmaceuticals Mallorca Championships",
       "shortName": "Vanda Pharmaceuticals Mallorca Championships",
       "date": "2026-06-20T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "188-2026",
+      "name": "Wimbledon",
+      "shortName": "Wimbledon",
+      "date": "2026-06-22T04:00Z",
       "completed": false,
       "home": null,
       "away": null
