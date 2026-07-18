@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260717",
-  "count": 3,
+  "date": "20260718",
+  "count": 5,
   "games": [
     {
       "id": "306-2026",
@@ -27,6 +27,24 @@
       "name": "Plava Laguna Croatia Open Umag",
       "shortName": "Plava Laguna Croatia Open Umag",
       "date": "2026-07-11T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "304-2026",
+      "name": "Generali Open",
+      "shortName": "Generali Open",
+      "date": "2026-07-18T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "400-2026",
+      "name": "Millennium Estoril Open",
+      "shortName": "Millennium Estoril Open",
+      "date": "2026-07-18T04:00Z",
       "completed": false,
       "home": null,
       "away": null
