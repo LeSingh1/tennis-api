@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260718",
-  "count": 5,
+  "date": "20260719",
+  "count": 4,
   "games": [
     {
       "id": "306-2026",
@@ -17,15 +17,6 @@
       "id": "7-2026",
       "name": "EFG Swiss Open Gstaad",
       "shortName": "EFG Swiss Open Gstaad",
-      "date": "2026-07-11T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "22-2026",
-      "name": "Plava Laguna Croatia Open Umag",
-      "shortName": "Plava Laguna Croatia Open Umag",
       "date": "2026-07-11T04:00Z",
       "completed": false,
       "home": null,
