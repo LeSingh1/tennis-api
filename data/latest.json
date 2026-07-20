@@ -1,27 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260719",
-  "count": 4,
+  "date": "20260720",
+  "count": 2,
   "games": [
-    {
-      "id": "306-2026",
-      "name": "Nordea Open",
-      "shortName": "Nordea Open",
-      "date": "2026-07-06T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "7-2026",
-      "name": "EFG Swiss Open Gstaad",
-      "shortName": "EFG Swiss Open Gstaad",
-      "date": "2026-07-11T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "304-2026",
       "name": "Generali Open",
