@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260724",
-  "count": 2,
+  "date": "20260725",
+  "count": 4,
   "games": [
     {
       "id": "304-2026",
@@ -18,6 +18,24 @@
       "name": "Millennium Estoril Open",
       "shortName": "Millennium Estoril Open",
       "date": "2026-07-18T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "424-2026",
+      "name": "Mifel Tennis Open by Telcel Oppo",
+      "shortName": "Mifel Tennis Open by Telcel Oppo",
+      "date": "2026-07-25T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "888-2026",
+      "name": "Mubadala Citi DC Open",
+      "shortName": "Mubadala Citi DC Open",
+      "date": "2026-07-25T04:00Z",
       "completed": false,
       "home": null,
       "away": null
