@@ -1,18 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260801",
-  "count": 3,
+  "date": "20260802",
+  "count": 2,
   "games": [
-    {
-      "id": "424-2026",
-      "name": "Mifel Tennis Open by Telcel Oppo",
-      "shortName": "Mifel Tennis Open by Telcel Oppo",
-      "date": "2026-07-25T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "888-2026",
       "name": "Mubadala DC Open",
