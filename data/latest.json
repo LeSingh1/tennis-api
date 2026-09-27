@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20260926",
-  "count": 2,
+  "date": "20260927",
+  "count": 4,
   "games": [
     {
       "id": "441-2026",
@@ -18,6 +18,24 @@
       "name": "AITO Hangzhou Open",
       "shortName": "AITO Hangzhou Open",
       "date": "2026-09-22T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "5-2026",
+      "name": "Kinoshita Group Japan Open Tennis Championships",
+      "shortName": "Kinoshita Group Japan Open Tennis Championships",
+      "date": "2026-09-27T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "959-2026",
+      "name": "China Open",
+      "shortName": "China Open",
+      "date": "2026-09-27T04:00Z",
       "completed": false,
       "home": null,
       "away": null
