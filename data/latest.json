@@ -1,18 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261006",
-  "count": 3,
+  "date": "20261007",
+  "count": 2,
   "games": [
-    {
-      "id": "5-2026",
-      "name": "Kinoshita Group Japan Open Tennis Championships",
-      "shortName": "Kinoshita Group Japan Open Tennis Championships",
-      "date": "2026-09-27T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "959-2026",
       "name": "China Open",
