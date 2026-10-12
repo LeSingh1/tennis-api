@@ -1,18 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261011",
-  "count": 2,
+  "date": "20261012",
+  "count": 1,
   "games": [
-    {
-      "id": "959-2026",
-      "name": "China Open",
-      "shortName": "China Open",
-      "date": "2026-09-27T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "315-2026",
       "name": "Rolex Shanghai Masters",
