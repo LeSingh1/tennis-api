@@ -1,14 +1,32 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261016",
-  "count": 1,
+  "date": "20261017",
+  "count": 3,
   "games": [
     {
       "id": "315-2026",
       "name": "Rolex Shanghai Masters",
       "shortName": "Rolex Shanghai Masters",
       "date": "2026-10-05T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "440-2026",
+      "name": "BNP Paribas Fortis European Open",
+      "shortName": "BNP Paribas Fortis European Open",
+      "date": "2026-10-17T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "708-2026",
+      "name": "Almaty Open",
+      "shortName": "Almaty Open",
+      "date": "2026-10-17T04:00Z",
       "completed": false,
       "home": null,
       "away": null
