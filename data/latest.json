@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261017",
-  "count": 3,
+  "date": "20261018",
+  "count": 5,
   "games": [
     {
       "id": "315-2026",
@@ -27,6 +27,24 @@
       "name": "Almaty Open",
       "shortName": "Almaty Open",
       "date": "2026-10-17T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "110-2026",
+      "name": "Grand Prix Auvergne-Rhône-Alpes",
+      "shortName": "Grand Prix Auvergne-Rhône-Alpes",
+      "date": "2026-10-18T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "452-2026",
+      "name": "Grand Prix Auvergne-Rhône-Alpes",
+      "shortName": "Grand Prix Auvergne-Rhône-Alpes",
+      "date": "2026-10-18T04:00Z",
       "completed": false,
       "home": null,
       "away": null
