@@ -1,18 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261018",
-  "count": 5,
+  "date": "20261019",
+  "count": 4,
   "games": [
-    {
-      "id": "315-2026",
-      "name": "Rolex Shanghai Masters",
-      "shortName": "Rolex Shanghai Masters",
-      "date": "2026-10-05T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "440-2026",
       "name": "BNP Paribas Fortis European Open",
