@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261023",
-  "count": 4,
+  "date": "20261024",
+  "count": 6,
   "games": [
     {
       "id": "440-2026",
@@ -36,6 +36,24 @@
       "name": "Grand Prix Auvergne-Rhône-Alpes",
       "shortName": "Grand Prix Auvergne-Rhône-Alpes",
       "date": "2026-10-18T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "10-2026",
+      "name": "Erste Bank Open",
+      "shortName": "Erste Bank Open",
+      "date": "2026-10-24T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "23-2026",
+      "name": "Swiss Indoors Basel",
+      "shortName": "Swiss Indoors Basel",
+      "date": "2026-10-24T04:00Z",
       "completed": false,
       "home": null,
       "away": null
