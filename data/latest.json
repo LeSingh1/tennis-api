@@ -1,45 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261025",
-  "count": 6,
+  "date": "20261026",
+  "count": 2,
   "games": [
-    {
-      "id": "440-2026",
-      "name": "BNP Paribas Fortis European Open",
-      "shortName": "BNP Paribas Fortis European Open",
-      "date": "2026-10-17T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "708-2026",
-      "name": "Almaty Open",
-      "shortName": "Almaty Open",
-      "date": "2026-10-17T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "110-2026",
-      "name": "Grand Prix Auvergne-Rhône-Alpes",
-      "shortName": "Grand Prix Auvergne-Rhône-Alpes",
-      "date": "2026-10-18T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "452-2026",
-      "name": "Grand Prix Auvergne-Rhône-Alpes",
-      "shortName": "Grand Prix Auvergne-Rhône-Alpes",
-      "date": "2026-10-18T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "10-2026",
       "name": "Erste Bank Open",
