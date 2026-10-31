@@ -1,8 +1,8 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261030",
-  "count": 2,
+  "date": "20261031",
+  "count": 3,
   "games": [
     {
       "id": "10-2026",
@@ -18,6 +18,15 @@
       "name": "Swiss Indoors Basel",
       "shortName": "Swiss Indoors Basel",
       "date": "2026-10-24T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "13-2026",
+      "name": "Rolex Paris Masters",
+      "shortName": "Rolex Paris Masters",
+      "date": "2026-10-31T04:00Z",
       "completed": false,
       "home": null,
       "away": null
