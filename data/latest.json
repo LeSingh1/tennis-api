@@ -1,27 +1,9 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261101",
-  "count": 3,
+  "date": "20261102",
+  "count": 1,
   "games": [
-    {
-      "id": "10-2026",
-      "name": "Erste Bank Open",
-      "shortName": "Erste Bank Open",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "23-2026",
-      "name": "Swiss Indoors Basel",
-      "shortName": "Swiss Indoors Basel",
-      "date": "2026-10-24T04:00Z",
-      "completed": false,
-      "home": null,
-      "away": null
-    },
     {
       "id": "13-2026",
       "name": "Rolex Paris Masters",
