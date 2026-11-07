@@ -1,14 +1,23 @@
 {
   "sport": "tennis",
   "league": "atp",
-  "date": "20261106",
-  "count": 1,
+  "date": "20261107",
+  "count": 2,
   "games": [
     {
       "id": "13-2026",
       "name": "Rolex Paris Masters",
       "shortName": "Rolex Paris Masters",
       "date": "2026-10-31T04:00Z",
+      "completed": false,
+      "home": null,
+      "away": null
+    },
+    {
+      "id": "148-2026",
+      "name": "Bybit Stockholm Open",
+      "shortName": "Bybit Stockholm Open",
+      "date": "2026-11-07T05:00Z",
       "completed": false,
       "home": null,
       "away": null
